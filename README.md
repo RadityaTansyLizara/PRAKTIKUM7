@@ -3,7 +3,7 @@
 | Nama | RADITYA TANSY LIZARA  |
 | NIM | 312310454 |
 | Kelas | TI.23.A5 |
-| Mata Kuliah | Basis Data |
+| Mata Kuliah | Basis Data (Pertemuan 14 |
 
 **Query MySQL Pada Tabel Perusahaan**
 
