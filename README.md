@@ -19,7 +19,6 @@ INSERT INTO Perusahaan VALUES
 ('P02', 'Cabang Bekasi', NULL);
 SELECT * FROM Perusahaan;
 
-
 **Output :**
 ![image](https://github.com/RadityaTansyLizara/PRAKTIKUM6/assets/147571863/547be146-1c7e-45f6-a48b-b04000b8c8ef)
 
