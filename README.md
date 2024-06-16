@@ -233,5 +233,5 @@ WHERE Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE nama = 'B');
 ![image](https://github.com/RadityaTansyLizara/PRAKTIKUM6/assets/147571863/85b4f093-5df2-4be0-885e-eea09592af5b)
 
 
-![tabel praktikum7](https://github.com/RadityaTansyLizara/PRAKTIKUM7/assets/147571863/f58423ef-9588-4755-ac2e-d978a774f597)
 
+![image](https://github.com/RadityaTansyLizara/PRAKTIKUM7/assets/147571863/a30713e3-43f8-4704-b41d-bfb1e08b4ba9)
